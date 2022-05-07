@@ -1,0 +1,26 @@
+{
+  "name": "joi-ko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndotcom/joi-ko.git"
+  },
+  "author": {
+    "name": "N.com",
+    "email": "ndotcom@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndotcom/joi-ko/issues"
+  },
+  "homepage": "https://github.com/ndotcom/joi-ko#readme",
+  "keywords": ['joi', 'korean'],
+  "dependencies": {
+    "joi": "^17.6.0"
+  }
+}
