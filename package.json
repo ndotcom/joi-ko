@@ -19,7 +19,7 @@
     "url": "https://github.com/ndotcom/joi-ko/issues"
   },
   "homepage": "https://github.com/ndotcom/joi-ko#readme",
-  "keywords": ['joi', 'korean'],
+  "keywords": ["joi", "korean"],
   "dependencies": {
     "joi": "^17.6.0"
   }
