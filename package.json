@@ -1,7 +1,7 @@
 {
   "name": "joi-ko",
   "version": "1.0.0",
-  "description": "",
+  "description": "joi 응답메세지를 한국어로 받습니다.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
